@@ -39,7 +39,7 @@ I'm driven by **innovation, problem-solving, and a love for continuous learning*
 ### 🛠️ Tech Stack
 <div align="center">
  <img 
-  src="https://skillicons.dev/icons?i=react,reactnative,vue,angular,nextjs,astro,html,css,js,ts,python,django,flask,java,spring,kotlin,swift,nodejs,express,php,laravel,go,rust,cpp,c,cs,ruby,rails,dart,flutter,mysql,postgres,sqlite,mongodb,firebase,redis,docker,kubernetes,nginx,git,github,gitlab,linux,vscode,tailwind,bootstrap&theme=light" 
+  src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,astro,html,css,js,ts,python,django,flask,java,spring,kotlin,swift,nodejs,express,php,laravel,go,rust,cpp,c,cs,ruby,rails,dart,flutter,mysql,postgres,sqlite,mongodb,firebase,redis,docker,kubernetes,nginx,git,github,gitlab,linux,vscode,tailwind,bootstrap&theme=light" 
 />
   <br><br>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
