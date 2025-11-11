@@ -1,4 +1,10 @@
-# Hi there, I'm Tsedey Solomon 👋
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Tsedey Solomon</h1>
+<h3 align="center">Software Developer | Full-Stack | Mobile | AI Enthusiast</h3>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Engineer;React+%7C+Django+%7C+React+Native;Machine+Learning+Practitioner;Always+Learning+New+Things">
+</p>
 
 ### 💡 About Me  
 I'm a passionate **Software Developer** from Ethiopia with hands-on experience in **web development**, **mobile app creation**, and **microcontroller-based systems**.  
@@ -75,12 +81,18 @@ I'm driven by **innovation, problem-solving, and a love for continuous learning*
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsedeysolomons&show_icons=true&theme=radical)
 
-![Tsedey Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsedeysolomons&layout=compact&theme=radical)
 
 ---
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsedeysolomons&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ✨ *“Keep learning, keep building, and let your code inspire change.”* ✨
 
