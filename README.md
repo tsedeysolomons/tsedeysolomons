@@ -2,10 +2,15 @@
 <h1 align="center">Hi 👋, I'm Tsedey Solomon</h1>
 <h3 align="center">Software Developer | Full-Stack | Mobile | AI Enthusiast</h3>
 <!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Engineer;React+%7C+Django+%7C+React+Native;Machine+Learning+Practitioner;Always+Learning+New+Things">
-</p>
+<div align="center">
 
+<!-- Animated Heading -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFE1&center=true&vCenter=true&width=700&lines=Hi+I'm+Tsedey+Solomon+👋;Software+Developer+%7C+Full-Stack+Engineer;React+Native+%7C+Django+%7C+Flutter;Building+Modern+Apps+and+Systems;Always+Learning+🚀">
+  
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284369-6e5af6da-208f-4a5f-a26b-d2f516fe80c6.gif" width="100%">
+
+</div>
 ### 💡 About Me  
 I'm a passionate **Software Developer** from Ethiopia with hands-on experience in **web development**, **mobile app creation**, and **microcontroller-based systems**.  
 My journey started with curiosity about how technology can solve real-world problems — from building Arduino projects to developing full-stack web apps and ERP systems.  
@@ -32,6 +37,12 @@ I'm driven by **innovation, problem-solving, and a love for continuous learning*
 ---
 
 ### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,python,django&theme=light" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,16 +93,34 @@ I'm driven by **innovation, problem-solving, and a love for continuous learning*
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsedeysolomons&show_icons=true&theme=radical)
+<div align="center">
 
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsedeysolomons&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=tsedeysolomons&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsedeysolomons&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
+</div>
 
 ---
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsedeysolomons&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+## 🌈 Animated Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsedeysolomons&theme=react-dark&hide_border=true">
+</div>
+
+---
+### ⭐ If you like my profile, consider giving a star to my repositories!
+
+<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="120">
+
+</div>
+
 ## ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ✨ *“Keep learning, keep building, and let your code inspire change.”* ✨
