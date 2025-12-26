@@ -74,16 +74,22 @@ I'm driven by **innovation, problem-solving, and a love for continuous learning*
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=tsedeysolomons&show_icons=true&theme=tokyonight&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsedeysolomons&layout=compact&theme=tokyonight&hide_border=true">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=tsedeysolomons&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsedeysolomons&layout=compact&theme=tokyonight)
+
+---
+
+---
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=tsedeysolomons&theme=dark&cache_seconds=86400)
 
 ---
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsedeysolomons&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tsedeysolomons&theme=dracula&no-frame=true&margin-w=10&cache_seconds=86400)
+
 ---
 
 ## 🌈 Animated Contribution Graph
