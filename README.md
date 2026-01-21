@@ -80,17 +80,17 @@ I'm driven by **innovation, problem-solving, and a love for continuous learning*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsedeysolomons&layout=compact&theme=tokyonight)
 
 ---
-
----
 ## 🔥 GitHub Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=tsedeysolomons&theme=dark&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=tsedeysolomons&theme=dark)
+
 
 ---
+
 ## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tsedeysolomons&theme=dracula&no-frame=true&margin-w=10&cache_seconds=86400)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tsedeysolomons&theme=dracula&no-frame=true&margin-w=10)
 
 ---
+
 
 ## 🌈 Animated Contribution Graph
 
