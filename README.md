@@ -12,26 +12,26 @@
 
 </div>
 ### 💡 About Me  
-I'm a passionate **Software Developer** from Ethiopia with hands-on experience in **web development**, **mobile app creation**, and **microcontroller-based systems**.  
+I'm a passionate Software Developer from Ethiopia with hands-on experience in web development, mobile app creation, and microcontroller-based systems.  
 My journey started with curiosity about how technology can solve real-world problems — from building Arduino projects to developing full-stack web apps and ERP systems.  
-I'm driven by **innovation, problem-solving, and a love for continuous learning**.
+I'm driven by innovation, problem-solving, and a love for continuous learning.
 
 ---
 
 ### 🚀 What I'm Doing Now
-- 🧠 Exploring **Artificial Intelligence** and **Machine Learning** concepts  
-- ⚙️ Working on **Odoo ERP systems** using **Docker + PostgreSQL + Redis**  
-- 📱 Developing mobile apps with **React Native (Expo)**  
-- 🌐 Building modern web apps with **React, PHP, MySQL, Node.js, and Django**  
-- 🧩 Learning **TypeScript**, **Prisma**, and **advanced backend design patterns**
+- 🧠 Exploring Artificial Intelligence and Machine Learning concepts  
+- ⚙️ Working on Odoo ERP systems using Docker + PostgreSQL + Redis  
+- 📱 Developing mobile apps with React Native (Expo)  
+- 🌐 Building modern web apps with **React, PHP, MySQL, Node.js, and Django
+- 🧩 Learning TypeScript, Prisma, and advanced backend design patterns
 
 ---
 
 ### 🎯 Future Goals
-- 🤖 Advance in **AI/ML and Data Engineering**  
-- 💼 Launch **E-Combinator**, a startup and innovation platform for Ethiopian entrepreneurs  
-- 🌍 Contribute to **open-source projects** that make global impact  
-- 🧩 Master **low-level programming** with **Assembly** and **systems design** concepts  
+- 🤖 Advance in AI/ML and Data Engineering  
+- 💼 Launch E-Combinator, a startup and innovation platform for Ethiopian entrepreneurs  
+- 🌍 Contribute to open-source projects that make global impact  
+- 🧩 Master **low-level programming with Assembl and systems design concepts  
 - 🚀 Build scalable, efficient, and intelligent applications for real-world use
 
 ---
