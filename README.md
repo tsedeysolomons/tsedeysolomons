@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Tsedey Solomon</h1>
+<h1 align="center">Hello 👋, I'm Tsedey Solomon</h1>
 <h3 align="center">Software Developer | Full-Stack | Mobile | AI Enthusiast</h3>
 <!-- Typing animation -->
 <div align="center">
@@ -12,9 +12,9 @@
 
 </div>
 ### 💡 About Me  
-I'm a passionate Software Developer from Ethiopia with hands-on experience in web development, mobile app creation, and microcontroller-based systems.  
-My journey started with curiosity about how technology can solve real-world problems — from building Arduino projects to developing full-stack web apps and ERP systems.  
-I'm driven by innovation, problem-solving, and a love for continuous learning.
+I'm a passionate Software Developer from Ethiopia with strong hands-on experience in web development, mobile applications, and microcontroller-based systems.
+My journey began with a deep curiosity about using technology to solve real-world problems — starting with Arduino and embedded projects, and evolving into building full-stack web applications and comprehensive ERP systems.
+I’m driven by innovation, practical problem-solving, and a strong commitment to continuous learning.
 
 ---
 
